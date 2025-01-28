@@ -14,7 +14,7 @@ public class Wrapper {
         Integer b = a;
         System.out.println("Numero inteiro Wrapper "+b+" = "+b.getClass().getName());
         
-        s.close();
+        s.close();  
 	}
 
 }
