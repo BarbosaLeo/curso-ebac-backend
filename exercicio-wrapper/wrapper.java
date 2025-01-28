@@ -11,10 +11,10 @@ public class Wrapper {
 		
 		int a = Integer.parseInt(numero);
 		System.out.println("Numero inteiro primitivo "+a);
-        Integer b = a;
-        System.out.println("Numero inteiro Wrapper "+b+" = "+b.getClass().getName());
-        
-        s.close();  
+	        Integer b = a;
+	        System.out.println("Numero inteiro Wrapper "+b+" = "+b.getClass().getName());
+	        
+	        s.close();  
 	}
 
 }
