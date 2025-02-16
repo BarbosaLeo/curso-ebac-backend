@@ -9,5 +9,5 @@ Habilidades práticas neste projeto:
     [Link](src/main/java/com/barbosaleo/application/PrincipalFrame.java)
 - Criar, ler, editar e remover itens de uma lista ordenada com chave única.
     [Link](src/main/java/com/barbosaleo/dao/ClienteMapDAO.java)
-- Criação de interface para várias formas de comunicação backend.
+- Utilização de interface para várias opções de implementação de comunicação backend.
     [Link](src/main/java/com/barbosaleo/dao/IClienteDAO.java)
