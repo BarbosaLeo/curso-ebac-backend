@@ -7,7 +7,6 @@ package com.barbosaleo.application;
 import com.barbosaleo.dao.ClienteMapDAO;
 import com.barbosaleo.dao.IClienteDAO;
 import com.barbosaleo.domain.Cliente;
-import java.util.Arrays;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
