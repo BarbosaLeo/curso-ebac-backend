@@ -1,0 +1,6 @@
+com\barbosaleo\testesjunit4\dao\ContratoDao.class
+com\barbosaleo\testesjunit4\dao\IContratoDao.class
+com\barbosaleo\testesjunit4\dao\ContratoDaoMock.class
+com\barbosaleo\testesjunit4\services\IContratoService.class
+com\barbosaleo\testesjunit4\Main.class
+com\barbosaleo\testesjunit4\services\ContratoService.class
