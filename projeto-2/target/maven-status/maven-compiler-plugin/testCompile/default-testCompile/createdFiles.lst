@@ -1,0 +1,7 @@
+com\barbosaleo\ProdutoServiceTest.class
+com\barbosaleo\TestSuite.class
+com\barbosaleo\ClienteServiceTest.class
+com\barbosaleo\dao\ClienteDAOMock.class
+com\barbosaleo\ProdutoDAOTest.class
+com\barbosaleo\ClienteDAOTest.class
+com\barbosaleo\dao\ProdutoDAOMock.class
