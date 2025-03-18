@@ -1,0 +1,8 @@
+com\barbosaleo\dao\generic\jdbc\dao\IClienteDAO.class
+com\barbosaleo\main\Main.class
+com\barbosaleo\dao\generic\jdbc\dao\ProdutoDAO.class
+com\barbosaleo\domain\Cliente.class
+com\barbosaleo\domain\Produto.class
+com\barbosaleo\dao\generic\jdbc\dao\ClienteDAO.class
+com\barbosaleo\dao\generic\jdbc\dao\IProdutoDAO.class
+com\barbosaleo\dao\generic\jdbc\ConnectionFactory.class
