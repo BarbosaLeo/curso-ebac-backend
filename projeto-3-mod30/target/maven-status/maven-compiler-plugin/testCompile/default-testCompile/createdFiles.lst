@@ -1,0 +1,8 @@
+com\barbosaleo\test\TestSuite.class
+com\barbosaleo\test\ClienteServiceTest.class
+com\barbosaleo\test\dao\ProdutoDaoMock.class
+com\barbosaleo\test\VendaDAOTest.class
+com\barbosaleo\test\ProdutoDAOTest.class
+com\barbosaleo\test\dao\ClienteDaoMock.class
+com\barbosaleo\test\ClienteDAOTest.class
+com\barbosaleo\test\ProdutoServiceTest.class
