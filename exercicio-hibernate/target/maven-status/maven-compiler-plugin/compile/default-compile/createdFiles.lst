@@ -1,0 +1,9 @@
+com\barbosaleo\dao\ProdutoDao.class
+com\barbosaleo\domain\Curso.class
+com\barbosaleo\dao\IProdutoDao.class
+com\barbosaleo\dao\MatriculaDao.class
+com\barbosaleo\dao\IMatriculaDao.class
+com\barbosaleo\dao\ICursoDao.class
+com\barbosaleo\dao\CursoDao.class
+com\barbosaleo\domain\Produto.class
+com\barbosaleo\domain\Matricula.class
