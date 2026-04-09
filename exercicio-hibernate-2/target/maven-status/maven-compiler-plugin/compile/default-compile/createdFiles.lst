@@ -1,0 +1,11 @@
+com\barbosaleo\dao\ICarroDao.class
+com\barbosaleo\domain\Acessorio.class
+com\barbosaleo\dao\AcessorioDao.class
+com\barbosaleo\dao\CarroDao.class
+com\barbosaleo\dao\IAcessorioDao.class
+com\barbosaleo\dao\IMarcaDao.class
+com\barbosaleo\dao\generic\IGenericDao.class
+com\barbosaleo\dao\MarcaDao.class
+com\barbosaleo\domain\Marca.class
+com\barbosaleo\domain\Carro.class
+com\barbosaleo\dao\generic\GenericDao.class
