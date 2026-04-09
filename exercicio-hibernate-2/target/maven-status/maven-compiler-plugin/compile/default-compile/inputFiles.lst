@@ -1,0 +1,11 @@
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\dao\AcessorioDao.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\dao\CarroDao.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\dao\generic\GenericDao.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\dao\generic\IGenericDao.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\dao\IAcessorioDao.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\dao\ICarroDao.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\dao\IMarcaDao.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\dao\MarcaDao.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\domain\Acessorio.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\domain\Carro.java
+D:\Leonardo\Documentos\NetBeansProjects\projeto_hibernate\src\main\java\com\barbosaleo\domain\Marca.java
